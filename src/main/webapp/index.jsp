@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Rohith Udala - DevOps Engineer</h1>
+        <h1>Rohithreddy Udala - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
